@@ -2,8 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "org.mpmchurch.app"
-        version   = "1"
-		android-versionCode="10000"> 
+        version   = "2"
+		android-versionCode="10002"> 
 
     <!-- Change app id (above), name, description, and author. App ID can be any reverse domain name, such as com.mycompany.app -->
     <name>mpm church</name>
