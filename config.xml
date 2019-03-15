@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "in.mpmchurch"
+        id        = "in.mpmchurch "
         version   = "1"
 		android-versionCode="10000"> 
 
@@ -9,11 +9,11 @@
     <name>Mahima prarthana mandhira</name>
 
     <description>
-        Mahima prarthana mandhira, banglore
+        MPM Church, banglore
     </description>
 
     <author href="mahimaprarthanamandhira.in" email="Rajushetty.b@gmail.com">
-       Mahima prarthana mandhira
+       Ps Tejas, MPM church, banglore
     </author> 
  <!-- one signal push 
 	<gap:plugin name="onesignal-cordova-plugin" spec="^2.1.1" source="npm" /> -->
